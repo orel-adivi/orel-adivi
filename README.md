@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 # Hi there!
-My name is Orel Adivi, and I am a Software Engineering Student :computer: at Technion - Israel Institute of Technology.
+My name is Orel Adivi, and I am a Software Engineering Student 🖥️ at Technion - Israel Institute of Technology.
