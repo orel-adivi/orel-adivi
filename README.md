@@ -2,7 +2,7 @@
 My name is Orel Adivi, and I am a Software Engineering Student 🖥️ at Technion - Israel Institute of Technology.
 
 This is what I currently do:
-<!-- - 🔭 I’m currently working on [content](link) -->
+- 🔭 I’m currently working on [?](todo)
 - 🌱 I’m currently learning **?**
 - 👨‍💻 All of my projects are available at [my github account](todo)
 - 💬 Ask me about **?**
