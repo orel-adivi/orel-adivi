@@ -6,4 +6,4 @@ This is what I currently do:
 - 🌱 I’m currently learning GitHub's features.
 - 💬 Ask me about computer science, tissue engineering, and phonology.
 
-Reach me here: 📫 Email `(orel.adivi [at] gmail.com)`, 🌐 [Personal website](https://orel-adivi.github.io/), 📖 [Facebook](https://www.facebook.com/orel.adivi/), 🖼️ [Instagram](todo), 💼 [LinkedIn](https://www.linkedin.com/in/orel-adivi/), ⌨️ [GitHub](https://github.com/orel-adivi)
+Reach me here: 📫 Email `(orel.adivi [at] gmail.com)`, 🌐 [Personal website](https://orel-adivi.github.io/), 📖 [Facebook](https://www.facebook.com/orel.adivi/), <!--🖼️ [Instagram](todo), -->💼 [LinkedIn](https://www.linkedin.com/in/orel-adivi/), ⌨️ [GitHub](https://github.com/orel-adivi)
