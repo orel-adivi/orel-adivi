@@ -1,7 +1,3 @@
-It is the GitHub page of Orel Adivi.
-
-A full description will be available soon...
-
 <!--
 ### Hi there 👋
 
@@ -18,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there!
+My name is Orel Adivi, and I am a Software Engineering Student :computer: at Technion - Israel Institute of Technology.
