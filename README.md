@@ -1,6 +1,9 @@
-### Hi there 👋
+It is the GitHub page of Orel Adivi.
+A full description will be available soon...
 
 <!--
+### Hi there 👋
+
 **orel-adivi/orel-adivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
